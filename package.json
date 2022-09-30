@@ -1,0 +1,24 @@
+{
+  "name": "at-web-swaglab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderDummy/At-Web-SwagLab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderDummy/At-Web-SwagLab/issues"
+  },
+  "homepage": "https://github.com/coderDummy/At-Web-SwagLab#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
